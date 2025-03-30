@@ -16,13 +16,13 @@ const Header = () =>{
 
                <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                   <li><a href="/" class="nav-link px-2 text-white">Home</a></li>
-                  <li><a href="chap01" class="nav-link px-2 text-white">Chapter01</a></li>
-                  <li><a href="chap02" class="nav-link px-2 text-white">Chapter02</a></li>
-                  <li><a href="chap03" class="nav-link px-2 text-white">Chapter03</a></li>
-                  <li><a href="input" class="nav-link px-2 text-white">Chapter03Input</a></li>
-                  <li><a href="minus" class="nav-link px-2 text-white">Chapter03B</a></li>
-                  <li><a href="memo" class="nav-link px-2 text-white">Memo</a></li>
-                  <li><a href="foods" class="nav-link px-2 text-white">Busan</a></li>
+                  <li><a href="/chap01" class="nav-link px-2 text-white">Chapter01</a></li>
+                  <li><a href="/chap02" class="nav-link px-2 text-white">Chapter02</a></li>
+                  <li><a href="/chap03" class="nav-link px-2 text-white">Chapter03</a></li>
+                  <li><a href="/input" class="nav-link px-2 text-white">Chapter03Input</a></li>
+                  <li><a href="/minus" class="nav-link px-2 text-white">Chapter03B</a></li>
+                  <li><a href="/memo" class="nav-link px-2 text-white">Memo</a></li>
+                  <li><a href="/foods" class="nav-link px-2 text-white">Busan</a></li>
                </ul>
 
                <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
